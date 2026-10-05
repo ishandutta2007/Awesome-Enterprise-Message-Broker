@@ -43,9 +43,9 @@ Below is a comparison of leading SaaS message broker solutions, ordered by paren
 
 ## 🔓 Open-Source Message Brokers & Streaming Engines
 
-The open-source message broker ecosystem offers production-proven reliability, open standards, and high throughput. Below are top open-source projects sorted by GitHub stars count descending:
+The open-source message broker ecosystem offers production-proven reliability, open standards, and high throughput. Below are top open-source projects sorted by GitHub_Stars_Count descending:
 
-| Project | Description | GitHub Stars |
+| Project | Description | GitHub_Stars |
 | :--- | :--- | :--- |
 | **[Apache Kafka](https://github.com/apache/kafka)** 🐘 | Distributed event streaming platform capable of handling trillions of events a day with log append storage and stream processing APIs. | [![Apache Kafka Stars](https://img.shields.io/github/stars/apache/kafka?style=social&color=white)](https://github.com/apache/kafka/stargazers) |
 | **[RabbitMQ](https://github.com/rabbitmq/rabbitmq-server)** 🐇 | Highly flexible, Erlang-based message broker supporting AMQP 1.0, MQTT, and STOMP with complex routing topology. | [![RabbitMQ Stars](https://img.shields.io/github/stars/rabbitmq/rabbitmq-server?style=social&color=white)](https://github.com/rabbitmq/rabbitmq-server/stargazers) |
